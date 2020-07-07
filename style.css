@@ -1,0 +1,10 @@
+ol{
+    border: 2px solid black;
+    color: springgreen;
+    width: 200px;
+}
+ul{
+    color: steelblue;
+    font-weight: bold;
+    text-decoration: tomato;
+}
